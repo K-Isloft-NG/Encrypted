@@ -1,0 +1,5 @@
+
+
+Hello, this is my personal project. It allows you to encrypt a file or an entire folder.
+
+As you can see, there’s a menu where we can encrypt the selected file.

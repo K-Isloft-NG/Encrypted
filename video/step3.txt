@@ -1,0 +1,5 @@
+
+
+You’ll notice that if I choose a predefined key, it won’t work for now because I first need to unlock the key manager.
+
+A second version of the file will appear in the test folder which is empty for now
